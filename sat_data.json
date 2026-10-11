@@ -18,7 +18,7 @@
                         "system": "MPEG-4",
                         "sid": "504",
                         "vpid": "301",
-                        "apid_lang": "302 Spa 303 org 304 N/A"
+                        "apid_lang": "302 SPA 303 QAA 304 SPA"
                     },
                     {
                         "type": "Radio",
@@ -26,7 +26,7 @@
                         "system": "",
                         "sid": "505",
                         "vpid": "",
-                        "apid_lang": "2001 Spa"
+                        "apid_lang": "2001 SPA"
                     },
                     {
                         "type": "Radio",
@@ -34,15 +34,7 @@
                         "system": "",
                         "sid": "506",
                         "vpid": "",
-                        "apid_lang": "2031 Spa"
-                    },
-                    {
-                        "type": "Radio",
-                        "name": "RNE Radio 4 Extremadura",
-                        "system": "",
-                        "sid": "507",
-                        "vpid": "",
-                        "apid_lang": "2041 Spa"
+                        "apid_lang": "2031 SPA"
                     }
                 ]
             },
@@ -57,7 +49,7 @@
                         "system": "MPEG-4",
                         "sid": "524",
                         "vpid": "301",
-                        "apid_lang": "302 Spa 303 org 304 N/A"
+                        "apid_lang": "302 SPA 303 QAA 304 SPA"
                     },
                     {
                         "type": "Radio",
@@ -65,7 +57,7 @@
                         "system": "",
                         "sid": "525",
                         "vpid": "",
-                        "apid_lang": "2001 Spa"
+                        "apid_lang": "2001 SPA"
                     },
                     {
                         "type": "Radio",
@@ -73,15 +65,7 @@
                         "system": "",
                         "sid": "526",
                         "vpid": "",
-                        "apid_lang": "2031 Spa"
-                    },
-                    {
-                        "type": "Radio",
-                        "name": "RNE Radio 4 La Rioja",
-                        "system": "",
-                        "sid": "527",
-                        "vpid": "",
-                        "apid_lang": "2041 Spa"
+                        "apid_lang": "2031 SPA"
                     }
                 ]
             },
@@ -96,7 +80,7 @@
                         "system": "MPEG-4",
                         "sid": "544",
                         "vpid": "301",
-                        "apid_lang": "302 Spa 303 org 304 N/A"
+                        "apid_lang": "302 SPA 303 QAA 304 SPA"
                     },
                     {
                         "type": "Radio",
@@ -104,7 +88,7 @@
                         "system": "",
                         "sid": "545",
                         "vpid": "",
-                        "apid_lang": "2001 Spa"
+                        "apid_lang": "2001 SPA"
                     },
                     {
                         "type": "Radio",
@@ -112,15 +96,7 @@
                         "system": "",
                         "sid": "546",
                         "vpid": "",
-                        "apid_lang": "2031 Spa"
-                    },
-                    {
-                        "type": "Radio",
-                        "name": "RNE Radio 4 Murcia",
-                        "system": "",
-                        "sid": "547",
-                        "vpid": "",
-                        "apid_lang": "2041 Spa"
+                        "apid_lang": "2031 SPA"
                     }
                 ]
             },
@@ -135,7 +111,7 @@
                         "system": "MPEG-4",
                         "sid": "574",
                         "vpid": "301",
-                        "apid_lang": "302 Spa 303 org 304 N/A"
+                        "apid_lang": "302 SPA 303 QAA 304 SPA"
                     },
                     {
                         "type": "Radio",
@@ -143,7 +119,7 @@
                         "system": "",
                         "sid": "575",
                         "vpid": "",
-                        "apid_lang": "2001 Spa"
+                        "apid_lang": "2001 SPA"
                     },
                     {
                         "type": "Radio",
@@ -151,15 +127,7 @@
                         "system": "",
                         "sid": "576",
                         "vpid": "",
-                        "apid_lang": "2031 Spa"
-                    },
-                    {
-                        "type": "Radio",
-                        "name": "RNE Radio 4 Valencia",
-                        "system": "",
-                        "sid": "577",
-                        "vpid": "",
-                        "apid_lang": "2041 Spa"
+                        "apid_lang": "2031 SPA"
                     }
                 ]
             },
@@ -194,27 +162,35 @@
                 "channels": [
                     {
                         "type": "HD",
-                        "name": "Teledeporte",
+                        "name": "tdp HD",
                         "system": "MPEG-4",
                         "sid": "380",
                         "vpid": "4001",
-                        "apid_lang": "4002 Spa 4003 org 4004 N/A"
+                        "apid_lang": "4002 SPA 4003 QAA 4004 SPA"
                     },
                     {
                         "type": "HD",
-                        "name": "Canal 24 Horas",
+                        "name": "24h HD",
                         "system": "MPEG-4",
                         "sid": "383",
                         "vpid": "1501",
-                        "apid_lang": "1503 Spa 1504 org 1505 N/A"
+                        "apid_lang": "1502 SPA 1503 QAA 1504 SPA"
+                    },
+                    {
+                        "type": "Radio",
+                        "name": "Radio 4 RNE",
+                        "system": "MPEG-4",
+                        "sid": "387",
+                        "vpid": "",
+                        "apid_lang": "2041 CAT"
                     },
                     {
                         "type": "HD",
-                        "name": "TVE La 2",
+                        "name": "La 2 HD",
                         "system": "MPEG-4",
                         "sid": "388",
                         "vpid": "401",
-                        "apid_lang": "402 Spa 403 org 404 N/A"
+                        "apid_lang": "402 SPA 403 QAA 404 SPA"
                     }
                 ]
             },
@@ -225,27 +201,27 @@
                 "channels": [
                     {
                         "type": "HD",
-                        "name": "Canal 24 Horas",
+                        "name": "24hHD HEVC Sat",
                         "system": "HEVC",
                         "sid": "1",
                         "vpid": "49",
-                        "apid_lang": "50 Spa 51 org 52 org"
+                        "apid_lang": "50 SPA 51 SPA 53 SPA"
                     },
                     {
                         "type": "HD",
-                        "name": "TVE La 1",
+                        "name": "La1HD HEVC Sat",
                         "system": "HEVC",
                         "sid": "534",
                         "vpid": "301",
-                        "apid_lang": "302 Spa 303 org 304 N/A"
+                        "apid_lang": "302 SPA 303 SPA 304 SPA"
                     },
                     {
                         "type": "HD",
-                        "name": "TVE La 2",
+                        "name": "La2HD HEVC Sat",
                         "system": "HEVC",
                         "sid": "538",
                         "vpid": "401",
-                        "apid_lang": "402 Spa 403 org 404 N/A"
+                        "apid_lang": "402 SPA 403 SPA 404 SPA"
                     }
                 ]
             },
